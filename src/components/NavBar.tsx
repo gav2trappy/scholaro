@@ -67,7 +67,7 @@ export default function NavBar() {
         <Link to="/" className="flex items-center space-x-2">
           <div className="relative w-10 h-10">
             <img
-              src="Scholaro Favicon_nobg.png"
+              src="/scholaro/logo.png.png"
               alt="Scholaro Logo"
               className="w-full h-full object-contain"
             />
